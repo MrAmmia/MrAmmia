@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://dev.to/mrammia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrammia" height="30" width="40" /></a>
 <a href="https://twitter.com/ammiamr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ammiamr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullahi-musa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullahi-musa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullahi-musa" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="https://www.linkedin.com/in/abdullahi-musa" height="30" width="40" /></a>
 <a href="https://medium.com/@musabdulhim3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@musabdulhim3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/musabdulhim3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="musabdulhim3" height="30" width="40" /></a>
 </p>
