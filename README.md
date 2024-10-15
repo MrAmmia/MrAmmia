@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mr_ammia@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YvFV42kDLeIGYYm8YJZ1MfY-gsMuT2GS/view?usp=drive_link](https://drive.google.com/file/d/1YvFV42kDLeIGYYm8YJZ1MfY-gsMuT2GS/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YvFV42kDLeIGYYm8YJZ1MfY-gsMuT2GS/view?usp=drive_link](https://drive.google.com/file/d/1tdbpu-STu2idQun4_9pqY3PT2tdu70Iu/view?usp=sharing)
 
 - ⚡ Fun fact **Java is the GOAT but Kotlin's better**
 
